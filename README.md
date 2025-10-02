@@ -105,12 +105,12 @@ This is a complete, interactive console application that simulates a Mars Rover 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/KrishJagyasi/Educational-Initiatives-22BCP065.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd <repository-name>
+    cd Educational-Initiatives-22BCP065
     ```
 
 3.  **Compile and Run from the Terminal:**
