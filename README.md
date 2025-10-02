@@ -12,8 +12,9 @@ The project is entirely console-based, with a focus on high-quality code, logic,
 
 ## Project Structure
 
-The repository is organized into two main assignments, launched from a single, interactive menu.
+The repository is organized into two main assignments, launched from a single, interactive menu:
 
+```text
 .
 ├── Assignment1
 │   ├── Behavioural
@@ -35,9 +36,7 @@ The repository is organized into two main assignments, launched from a single, i
 ├── CombinedMain.java       <-- The Main Entry Point for the Application
 ├── .gitignore
 └── README.md
-
-
----
+```
 
 ## Assignments Overview
 
