@@ -1,0 +1,18 @@
+# Compiled Java class files
+*.class
+bin/
+out/
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# Log files and other generated files
+*.log
+*.tmp
+
+# Maven and Gradle files (good practice to include)
+target/
+build/
+.gradle/
